@@ -25,7 +25,6 @@ div img {
     margin: auto;
     width: 100%;
     min-width: 320px;
-
 }
 
 header {
@@ -34,7 +33,6 @@ header {
     display: flex;
     align-items: center;
     color: #fff;
-
 }
 
 header .list-items {
@@ -43,7 +41,6 @@ header .list-items {
     width: 100%;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .list-items li a {
@@ -52,7 +49,6 @@ header .list-items {
 
 header .menu {
     justify-content: space-between;
-
 }
 
 .apresentacao {
@@ -61,11 +57,8 @@ header .menu {
     justify-content: space-between;
 }
 
-
 .apresentacao .texto-apresentacao {
     min-height: 200px;
-
-
 }
 
 .texto-apresentacao h1 {
@@ -86,7 +79,6 @@ header .menu {
     line-height: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
-
 }
 
 #quem-somos {
@@ -177,7 +169,6 @@ header .menu {
 #planos {
     flex-direction: column;
     min-height: 100vh;
-
 }
 
 #planos h2 {
@@ -197,14 +188,11 @@ header .menu {
     margin-right: 20px;
     padding: 10px;
     max-width: 240px;
-   
-
 }
 
 .item-plano .btn {
     margin: auto;
     margin-bottom: 20px;
-
 }
 
 .item-plano h3 {
@@ -222,7 +210,6 @@ header .menu {
     height: 3px;
     margin-top: 20px;
     margin-bottom: 10px;
-
 }
 
 .item-plano ul {
@@ -230,7 +217,6 @@ header .menu {
     display: flex;
     flex-direction: column;
     margin-bottom: 10px;
-
 }
 
 .item-plano ul li {
@@ -269,7 +255,6 @@ footer .footer {
         flex-direction: column-reverse;
     }
 
-
     .apresentacao .texto-apresentacao {
         width: 100%;
     }
@@ -304,9 +289,4 @@ footer .footer {
         width: 100%;
         margin-bottom: 20px;
     }
-
-
-
-
-
 }
